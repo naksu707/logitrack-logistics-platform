@@ -400,6 +400,6 @@ The platform is being developed incrementally, starting with the core logistics 
 
 ---
 
-## 📄 License
+## License
 
 This project is intended for educational and portfolio purposes.
